@@ -9,7 +9,7 @@ init(autoreset=True)
 with open('tokens.txt', 'r') as file:
     tokens = file.readlines()
 
-num_threads = int(input("[?]amount off threads too use: "))
+num_threads = int(input("[?]amount off threads to use: "))
 uid = input("[?]Enter the id (the last part off the profile url bar):")
 
 url = "https://api.heyreal.ai/api/followUpdate"
