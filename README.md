@@ -12,3 +12,9 @@ https://heyreal.ai/ followbot
 
 
 # showcase/tutorial
+
+https://github.com/user-attachments/assets/37b9d983-9333-4366-95a0-9e42714f5d92
+
+# extra✨
+5⭐= the gen that generates the tokens (for now just use the same)
+10⭐= full proxy support etc etc
